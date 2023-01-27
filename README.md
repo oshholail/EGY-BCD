@@ -8,8 +8,10 @@ Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions loc
 ![image-20230201153142126](./img/MansouraTiba.png)
 
 
-## :speech_balloon: Qualitative Results on EGY-BCD Dataset
-![image-20230201153142126](./img/result.jpg)
+ ## :speech_balloon: Quantitative and Qualitative Results on on EGY-BCD Dataset
+
+![image-QuantitativeResult](./img/result.jpg)
+![image-QualitativeResult](./img/result2.jpg)
 
 
 
