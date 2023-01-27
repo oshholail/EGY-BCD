@@ -13,8 +13,6 @@
 ![image-20210228153142126](./img/NewCairo.png)
 
 
-<img src="https://github.com/likyoo/change_detection.pytorch/blob/main/img/Mansoura.png" alt="Network Architecture" style="zoom:80%;" />
-
 
 ## Updates
 | :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
@@ -82,17 +80,14 @@ EGY-BCD dataset with pixel-level binary labels；
 ```
 
 `A`: Images of Time1;
-
 `B`:Images of Time2;
-
 `label`: Ground Truth;
-
 `each file contains the image names (XXXX.png)`
 
 
 ### :truck: Datasets <a name="dataset"></a>
 
-You can download the processed EGY-BCD and WHU-BCD datasets through the following here:
+You can download the processed EGY-BCD dataset through the following link:
 
 - [x] [EGY-BCD]() [baidu disk](https://pan.baidu.com/s/1bU9bSRxQnlfw7OkOw7hqjA) (x8gi)] 
 - [x] [WHU-BCD](https://justchenhao.github.io/LEVIR/)
