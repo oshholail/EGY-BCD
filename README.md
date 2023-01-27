@@ -1,11 +1,6 @@
 <h1 align="center">
   <b>AFDE-Net: Remote Sensing Image Change Detection using Attention-Based Feature Differential Enhancement</b><br>
 </h1>
-<p align="center">
-      <b>The pytorch implementation for "[AFDE-Net]</b>
-</p>
-
-
 
 ## :speech_balloon: EGY-BCD Dataset Description 
 Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions located in Egypt, including New Mansoura, El Galala City, New Cairo, and New Thebes. The figure below shows the building changes in New Mansoura City and New Thebes. Our image data capture time varies from 2017 to 2022. The images feature seasonal changes and different lighting changes in our new dataset, which can help develop effective methods that can mitigate the impact of unrelated changes on real changes.
