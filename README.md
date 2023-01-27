@@ -123,4 +123,8 @@ Appreciate the work from the following repositories:
 
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 - [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+- [likyoo/PRCV2021_ChangeDetection_Top3](https://github.com/likyoo/PRCV2021_ChangeDetection_Top3)
+- [likyoo/Pytorch-UNet](https://github.com/likyoo/Pytorch-UNet)
+- [angup143/disaster_mapping](https://github.com/angup143/disaster_mapping/tree/5bab37700950bb9b5e6af9bbe41a6ab66645bf58)
+
 
