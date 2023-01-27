@@ -74,14 +74,27 @@ Below is a list of encoders used in this work and their pre-trained weights.
 </details>
 
 
-## :speech_balloon: Dataset Preparation
+## :speech_balloon: <span id="jump">Dataset Preparation</span>
+
+### :point_right: Data Structure
 
 ```
 """
 EGY-BCD dataset with pixel-level binary labels；
-├─A
-├─B
-├─label
+├————train
+|      ├———A  
+|      ├———B
+|      ├———label
+|
+├————val
+|      ├———A  
+|      ├———B
+|      ├———label
+|
+├————test
+|      ├———A  
+|      ├———B
+|      ├———label
 """
 ```
 
@@ -96,7 +109,6 @@ EGY-BCD dataset with pixel-level binary labels；
 You can download the processed EGY-BCD dataset through the following link:
 
 - [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) (....)
-- [x] [WHU-BCD](http://gpcv.whu.edu.cn/data/building_dataset.html)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
