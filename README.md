@@ -89,8 +89,8 @@ EGY-BCD dataset with pixel-level binary labels；
 
 You can download the processed EGY-BCD dataset through the following link:
 
-- [x] [EGY-BCD]() [baidu disk](https://pan.baidu.com/s/1qVcgfhaEbOCTk3P2N-YfCQ) ()] 
-- [x] [WHU-BCD](https://justchenhao.github.io/LEVIR/)
+- [x] [EGY-BCD]() [baidu disk](https://pan.baidu.com/s/1qVcgfhaEbOCTk3P2N-YfCQ) (....)
+- [x] [WHU-BCD](http://gpcv.whu.edu.cn/data/building_dataset.html)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
