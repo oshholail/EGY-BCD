@@ -7,7 +7,7 @@
 
 
 ## :speech_balloon: Network Architecture
-![image-20210228153142126](./img/Time1_Mansoura.png)
+![image-20210228153142126](./img/Mansoura.png)
 
 ## :speech_balloon: Quantitative & Qualitative Results on LEVIR-CD and DSIFN-CD
 ![image-20210228153142126](./img/NewCairo.png)
