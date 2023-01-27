@@ -52,6 +52,8 @@ Below is a list of encoders used in this work and their pre-trained weights.
 | resnet101 |       imagenet        |    42M    |
 
 
+</div>
+</details>
 
 <details>
 <summary style="margin-left: 25px;">RegNet(x/y)</summary>
@@ -64,6 +66,8 @@ Below is a list of encoders used in this work and their pre-trained weights.
 | timm-regnety_320 | imagenet |   141M    |
 
 
+</div>
+</details>
 
 
 ## :speech_balloon: Dataset Preparation
