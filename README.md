@@ -3,6 +3,9 @@
 </h1>
 
 
+The EGY-BCD dataset is available. Codes is coming soon.
+
+
 ## Updates
 | :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
 |---------------|:------------------------|
