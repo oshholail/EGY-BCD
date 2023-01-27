@@ -108,9 +108,7 @@ You can download the processed EGY-BCD dataset through the following link:
 ```
   
 ### Contact Information
-
-Shimaa Holail: shimaaholail@whu.edu.cn
-
+If you have any question about EGY-BCD dataset, please contact shimaaholail@whu.edu.cn
 
 
 ## :speech_balloon: References
