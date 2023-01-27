@@ -12,10 +12,6 @@ Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions loc
 
 ![image-20210228153142126](./img/Mansoura.png)
 
-## :speech_balloon: Quantitative & Qualitative Results on LEVIR-CD and DSIFN-CD
-![image-20210228153142126](./img/NewCairo.png)
-
-
 
 ## Updates
 | :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
