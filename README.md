@@ -3,7 +3,7 @@
 </h1>
 
 
-The EGY-BCD dataset is available. Codes is coming soon.
+The train and test code will be released soon. The EGY-BCD dataset is available. 
 
 
 ## Updates
