@@ -6,7 +6,10 @@
 </p>
 
 
-## :speech_balloon: Network Architecture
+
+## :speech_balloon: EGY-BCD Dataset Description 
+Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions located in Egypt, including New Mansoura, El Galala City, New Cairo, and New Thebes. The figure below shows the building changes in New Mansoura City and New Thebes. Our image data capture time varies from 2017 to 2022. The images feature seasonal changes and different lighting changes in our new dataset, which can help develop effective methods that can mitigate the impact of unrelated changes on real changes.
+
 ![image-20210228153142126](./img/Mansoura.png)
 
 ## :speech_balloon: Quantitative & Qualitative Results on LEVIR-CD and DSIFN-CD
