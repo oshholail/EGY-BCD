@@ -1,4 +1,0 @@
-train_1.png
-train_2.png
-train_3.png
-train_4.png
