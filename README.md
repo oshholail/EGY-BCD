@@ -2,22 +2,27 @@
   <b>AFDE-Net: Remote Sensing Image Change Detection using Attention-Based Feature Differential Enhancement</b><br>
 </h1>
 
+
+## Updates
+| :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
+|---------------|:------------------------|
+
+
+
 ## :speech_balloon: EGY-BCD Dataset Description 
 Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions located in Egypt, including New Mansoura, El Galala City, New Cairo, and New Thebes. The figure below shows the building changes in New Mansoura City and New Thebes. Our image data capture time varies from 2017 to 2022. The images feature seasonal changes and different lighting changes in our new dataset, which can help develop effective methods that can mitigate the impact of unrelated changes on real changes.
 
 ![image-20230201153142126](./img/MansouraTiba.png)
 
 
- ## :speech_balloon: Quantitative and Qualitative Results on on EGY-BCD Dataset
+ ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on on EGY-BCD Dataset</span>
+ 
+### :point_right: Quantitative Results
+![image-QuantitativeResult](./img/result2.jpg)
 
-![image-QuantitativeResult](./img/result.jpg)
-![image-QualitativeResult](./img/result2.jpg)
+### :point_right: Qualitative Results
 
-
-
-## Updates
-| :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
-|---------------|:------------------------|
+![image-QualitativeResult](./img/result.jpg)
 
 
 ## :speech_balloon: Requirements
