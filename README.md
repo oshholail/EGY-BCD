@@ -14,7 +14,7 @@ Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions loc
 
 
 ## :speech_balloon: Qualitative Results on EGY-BCD Dataset
-![image-20230201153142126](./img/resut.jpg)
+![image-20230201153142126](./img/result.jpg)
 
 
 
