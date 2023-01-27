@@ -52,8 +52,6 @@ Below is a list of encoders used in this work and their pre-trained weights.
 | resnet101 |       imagenet        |    42M    |
 
 
-</div>
-</details>
 
 <details>
 <summary style="margin-left: 25px;">RegNet(x/y)</summary>
