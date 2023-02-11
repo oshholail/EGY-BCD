@@ -17,6 +17,10 @@ Bi-temporal images in the EGY-BCD dataset are taken from 4 different regions loc
 
 ![image-20230201153142126](./img/MansouraTiba.png)
 
+## :speech_balloon: Network Architecture
+An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The node $Xi$ features denotes a convolutional block as shown in (b). The feature differential enhancement FDE is described in (c). (d) is the ensemble spatial-channel attention fusion ESCAF.
+![image-20230201153142126](./img/overall.png)
+
 
  ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on on EGY-BCD Dataset</span>
  
