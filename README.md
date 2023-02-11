@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>AFDE-Net: Remote Sensing Image Change Detection using Attention-Based Feature Differential Enhancement</b><br>
+  <b>AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery</b><br>
 </h1>
 
 
