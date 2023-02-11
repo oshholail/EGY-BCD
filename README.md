@@ -117,9 +117,9 @@ You can download the processed EGY-BCD dataset through the following link:
 ### :page_with_curl: Citing <a name="citing"></a>
 
 ```
-@ARTICLE{shimaaremote2023,
-  Author = {S. Holail, T. Saleh, and X. Xiao},
-  Title = {AFDE-Net: Remote Sensing Image Change Detection using Attention-Based Feature Differential Enhancement},
+@ARTICLE{shimaabuilding2023,
+  Author = {S. Holail, T. Saleh, X. Xiao, and D. Li},
+  Title = {AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery},
   Journal = {IEEE Geoscience and Remote Sensing Letters},
   Year = {2023},
   volume={},
