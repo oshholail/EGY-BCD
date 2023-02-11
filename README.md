@@ -113,7 +113,7 @@ EGY-BCD dataset with pixel-level binary labels；
 
 ### :truck: Datasets <a name="dataset"></a>
 
-You can download the processed EGY-BCD dataset through the following link:
+You can download our novel public EGY-BCD dataset through the following link:
 
 - [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (ef21)
 
