@@ -2,7 +2,7 @@
   <b>AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery</b><br>
 </h1>
 
-[`Shimaa Holail`](https://www.researchgate.net/profile/Shimaa-Holail and https://www.linkedin.com/in/shimaaholail/), and [`Tamer Saleh`](https://www.bu.edu.eg/staff/tamermohamed3)
+[`Shimaa Holail`](https://www.researchgate.net/profile/Shimaa-Holail)(https://www.linkedin.com/in/shimaaholail/), and [`Tamer Saleh`](https://www.bu.edu.eg/staff/tamermohamed3)
 
 The train and test code will be released soon. The EGY-BCD dataset is available. 
 
