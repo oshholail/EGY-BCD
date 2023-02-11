@@ -22,7 +22,7 @@ An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The n
 ![image-20230201153142126](./img/overall.png)
 
 
- ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on on EGY-BCD Dataset</span>
+ ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the EGY-BCD Dataset</span>
  
 ### :point_right: Quantitative Results
 ![image-QuantitativeResult](./img/result2.jpg)
@@ -115,7 +115,7 @@ EGY-BCD dataset with pixel-level binary labels；
 
 You can download the processed EGY-BCD dataset through the following link:
 
-- [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) (ef21)
+- [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (ef21)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
