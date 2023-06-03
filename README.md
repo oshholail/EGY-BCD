@@ -8,7 +8,7 @@ The train and test code will be released soon. The EGY-BCD dataset is available.
 
 
 ## Updates
-| :zap:        | AFDE-Net has been submitted for publication at IEEE Geoscience and Remote Sensing Letters. |
+| :zap:        | AFDE-Net has been accepted for publication at IEEE Geoscience and Remote Sensing Letters (GRSL). |
 |---------------|:------------------------|
 
 
@@ -116,7 +116,7 @@ EGY-BCD dataset with pixel-level binary labels；
 
 You can download our novel public EGY-BCD dataset through the following link:
 
-- [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (ef21)
+- [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1DW3pfwQn3W4zYkYfCBCCdw) Passward: (ef)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
@@ -125,7 +125,7 @@ You can download our novel public EGY-BCD dataset through the following link:
 @ARTICLE{shimaabuilding2023,
   Author = {S. Holail, T. Saleh, X. Xiao, and D. Li},
   Title = {AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery},
-  Journal = {IEEE Geoscience and Remote Sensing Letters},
+  Journal = {IEEE Geoscience and Remote Sensing Letters (GRSL)},
   Year = {2023},
   volume={},
   number={},
