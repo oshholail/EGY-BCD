@@ -122,15 +122,16 @@ You can download our novel public EGY-BCD dataset through the following link:
 ### :page_with_curl: Citing <a name="citing"></a>
 
 ```
-@ARTICLE{shimaabuilding2023,
-  Author = {S. Holail, T. Saleh, X. Xiao, and D. Li},
-  Title = {AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery},
-  Journal = {IEEE Geoscience and Remote Sensing Letters (GRSL)},
-  Year = {2023},
+@ARTICLE{10145434,
+  author={Holail, Shimaa and Saleh, Tamer and Xiao, Xiongwu and Li, Deren},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={AFDE-Net: Building Change Detection using Attention-Based Feature Differential Enhancement for Satellite Imagery}, 
+  year={2023},
   volume={},
   number={},
-  pages={1-5}
-  }
+  pages={1-1},
+  doi={10.1109/LGRS.2023.3283505}}
+
 ```
   
 ### Contact Information
