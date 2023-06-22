@@ -117,6 +117,7 @@ EGY-BCD dataset with pixel-level binary labels；
 You can download our novel public EGY-BCD dataset through the following link:
 
 - [x] [EGY-BCD][baidu drive](https://pan.baidu.com/s/1UREv4F0DBHgabJW2VScgCA) Passward: (EGYD)
+- [x] [EGY-BCD][google drive](https://drive.google.com/file/d/16LLC1iSJQuFPrfuXCJSeSsEzKhXodhzp/view?usp=drive_link)
 
 
 ### :page_with_curl: Citing <a name="citing"></a>
