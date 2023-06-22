@@ -26,7 +26,7 @@ An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The n
  ## :speech_balloon: <span id="jump">Quantitative and Qualitative Results on the EGY-BCD Dataset</span>
  
 ### :point_right: Quantitative Results
-![image-QuantitativeResult](./img/result2.jpg)
+![image-QuantitativeResult](./img/result2.png)
 
 ### :point_right: Qualitative Results
 
