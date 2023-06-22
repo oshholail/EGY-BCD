@@ -30,7 +30,7 @@ An overview of the proposed architecture. (a) is the backbone of ADFE-Net. The n
 
 ### :point_right: Qualitative Results
 
-![image-QualitativeResult](./img/result.jpg)
+![image-QualitativeResult](./img/result.png)
 
 
 ## :speech_balloon: Requirements
