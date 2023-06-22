@@ -48,6 +48,9 @@ Please see `requirements.txt` for all the other requirements.
 - [x] DeepLabV3 [[paper](https://arxiv.org/abs/1706.05587)]
 - [x] Unet [[paper](https://arxiv.org/abs/1505.04597)]
 - [x] Unet++ [[paper](https://arxiv.org/pdf/1807.10165.pdf)]
+- [x] STANet [[paper](https://www.mdpi.com/2072-4292/12/10/1662/pdf)]
+- [x] SNUNet-CD [[paper](https://ieeexplore.ieee.org/abstract/document/9355573)]
+- [x] DMINet [[paper](https://ieeexplore.ieee.org/abstract/document/10034787)]
 
 
 #### Encoders <a name="encoders"></a>
